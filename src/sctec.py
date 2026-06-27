@@ -9,17 +9,16 @@ df = pd.read_csv(URL)
 print(df)
 
 # verificar clientes insatisfeitos
-clientes_insatisfeitos = df[df["Nota_Avaliacao"] <= 2]
+clientes_insatisfeitos = df[df["avaliacoes"] <= 2]
 print("Clientes Insatisfeitos que precisam de atenção: ")
 print(clientes_insatisfeitos)
 
 #material para extrair KPI's
 
-nota_media = df['Nota_Avaliacao'].mean()
+nota_media = df['avaliacoes'].mean()
 print(f"📊 A nota média da nossa empresa é: {nota_media:.2f} de 5.0")
 
 # 1. Filtrando os promotores da marca (Nota igual a 5)
-clientes_vips = df[df['Nota_Avaliacao'] == 5]
-
+clientes_vips = df[df['avaliacoes'] == 5]
 print("🎉 Clientes Ouro identificados para campanha de Marketing:")
-clientes_vips[['Cliente', 'Produto']]
+clientes_vips[['cliente', 'produto']]
