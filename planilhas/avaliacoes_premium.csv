@@ -1,0 +1,101 @@
+id_pedido,cliente ,genero,idade,uf,produto,valor_compra,nota_avaliacao,comentario,status_suporte
+REQ-1001,Cliente 1,M,32,MG,Cadeira Ergonômica,2714.03,3,"O produto é mediano, atende o básico.",Resolvido
+REQ-1002,Cliente 2,Outro,41,PR,Smartwatch,685.76,2,"Não gostei da qualidade do material, parece muito frágil.",Pendente
+REQ-1003,Cliente 3,F,55,RJ,Teclado Mecânico,2797.79,1,Trava o tempo todo e o suporte da empresa não me respondeu.,Pendente
+REQ-1004,Cliente 4,M,44,MG,Tablet,257.66,1,O produto parou de funcionar na primeira semana. Péssimo.,Em Aberto
+REQ-1005,Cliente 5,Outro,20,PR,Notebook,3077.37,2,"Não gostei da qualidade do material, parece muito frágil.",Resolvido
+REQ-1006,Cliente 6,F,26,RJ,Teclado Mecânico,1077.48,1,O produto parou de funcionar na primeira semana. Péssimo.,Resolvido
+REQ-1007,Cliente 7,M,25,BA,Notebook,4096.48,5,Muito robusto e de ótima qualidade. Vale cada centavo.,Não Necessário
+REQ-1008,Cliente 8,F,23,RS,Tablet,2576.27,3,"O produto é mediano, atende o básico.",Resolvido
+REQ-1009,Cliente 9,F,27,RS,Smartwatch,2710.65,5,Muito robusto e de ótima qualidade. Vale cada centavo.,Não Necessário
+REQ-1010,Cliente 10,M,57,PR,Fone Bluetooth,2451.63,5,Muito robusto e de ótima qualidade. Vale cada centavo.,Não Necessário
+REQ-1011,Cliente 11,M,58,PR,Smartphone,119.58,4,"Excelente produto, superou todas as minhas expectativas!",Não Necessário
+REQ-1012,Cliente 12,Outro,28,MG,Smartphone,3215.47,4,"Excelente produto, superou todas as minhas expectativas!",Não Necessário
+REQ-1013,Cliente 13,M,59,BA,Tablet,565.62,5,Chegou super rápido e funciona perfeitamente.,Não Necessário
+REQ-1014,Cliente 14,F,50,PE,Mouse Sem Fio,1433.87,5,Muito robusto e de ótima qualidade. Vale cada centavo.,Não Necessário
+REQ-1015,Cliente 15,Outro,61,PE,Monitor Gamer,3998.1,3,"O produto é mediano, atende o básico.",Resolvido
+REQ-1016,Cliente 16,M,22,RJ,Mouse Sem Fio,3480.8,1,"Não gostei da qualidade do material, parece muito frágil.",Resolvido
+REQ-1017,Cliente 17,F,30,MG,Mouse Sem Fio,2165.4,4,"Melhor compra que fiz este ano, recomendo muito.",Não Necessário
+REQ-1018,Cliente 18,F,54,BA,Mouse Sem Fio,1876.2,4,Muito robusto e de ótima qualidade. Vale cada centavo.,Não Necessário
+REQ-1019,Cliente 19,M,49,BA,Notebook,767.43,5,Muito robusto e de ótima qualidade. Vale cada centavo.,Não Necessário
+REQ-1020,Cliente 20,F,23,SC,Smartwatch,4021.89,5,Design bonito e entrega antes do prazo.,Não Necessário
+REQ-1021,Cliente 21,Outro,45,SP,Mouse Sem Fio,4085.39,4,"Melhor compra que fiz este ano, recomendo muito.",Não Necessário
+REQ-1022,Cliente 22,Outro,30,SP,Notebook,80.94,3,"O produto é mediano, atende o básico.",Resolvido
+REQ-1023,Cliente 23,M,59,SC,Cadeira Ergonômica,4245.95,4,Design bonito e entrega antes do prazo.,Não Necessário
+REQ-1024,Cliente 24,M,29,RS,Mouse Sem Fio,2262.76,3,"O produto é mediano, atende o básico.",Resolvido
+REQ-1025,Cliente 25,M,19,RJ,Monitor Gamer,197.08,3,"O produto é mediano, atende o básico.",Resolvido
+REQ-1026,Cliente 26,M,61,RJ,Monitor Gamer,1127.15,4,"Melhor compra que fiz este ano, recomendo muito.",Não Necessário
+REQ-1027,Cliente 27,Outro,34,BA,Monitor Gamer,1686.63,5,Chegou super rápido e funciona perfeitamente.,Não Necessário
+REQ-1028,Cliente 28,Outro,33,SP,Caixa de Som,1477.47,4,Chegou super rápido e funciona perfeitamente.,Não Necessário
+REQ-1029,Cliente 29,Outro,37,SC,Smartwatch,123.82,2,Veio faltando peças na caixa. Estou muito insatisfeito.,Resolvido
+REQ-1030,Cliente 30,M,50,PE,Mouse Sem Fio,4218.45,2,Trava o tempo todo e o suporte da empresa não me respondeu.,Resolvido
+REQ-1031,Cliente 31,M,40,BA,Tablet,1197.84,3,"O produto é mediano, atende o básico.",Pendente
+REQ-1032,Cliente 32,M,19,SP,Teclado Mecânico,4056.86,5,"Excelente produto, superou todas as minhas expectativas!",Não Necessário
+REQ-1033,Cliente 33,M,52,MG,Notebook,3860.64,4,"Excelente produto, superou todas as minhas expectativas!",Não Necessário
+REQ-1034,Cliente 34,Outro,25,SC,Monitor Gamer,3027.0,4,"Excelente produto, superou todas as minhas expectativas!",Não Necessário
+REQ-1035,Cliente 35,Outro,42,PR,Fone Bluetooth,765.6,4,"Excelente produto, superou todas as minhas expectativas!",Não Necessário
+REQ-1036,Cliente 36,M,58,SC,Smartphone,130.44,4,Chegou super rápido e funciona perfeitamente.,Não Necessário
+REQ-1037,Cliente 37,Outro,20,SP,Smartphone,2464.3,4,Muito robusto e de ótima qualidade. Vale cada centavo.,Não Necessário
+REQ-1038,Cliente 38,Outro,25,MG,Fone Bluetooth,1607.85,4,Design bonito e entrega antes do prazo.,Não Necessário
+REQ-1039,Cliente 39,M,36,SC,Notebook,3470.07,4,"Excelente produto, superou todas as minhas expectativas!",Não Necessário
+REQ-1040,Cliente 40,F,46,RS,Teclado Mecânico,3981.55,1,Trava o tempo todo e o suporte da empresa não me respondeu.,Pendente
+REQ-1041,Cliente 41,M,63,PR,Notebook,4412.48,5,Design bonito e entrega antes do prazo.,Não Necessário
+REQ-1042,Cliente 42,M,49,BA,Smartphone,1460.3,1,Veio faltando peças na caixa. Estou muito insatisfeito.,Resolvido
+REQ-1043,Cliente 43,Outro,57,RS,Cadeira Ergonômica,979.69,4,"Melhor compra que fiz este ano, recomendo muito.",Não Necessário
+REQ-1044,Cliente 44,Outro,44,RJ,Fone Bluetooth,1485.35,5,"Melhor compra que fiz este ano, recomendo muito.",Não Necessário
+REQ-1045,Cliente 45,Outro,56,PR,Tablet,3651.66,5,"Excelente produto, superou todas as minhas expectativas!",Não Necessário
+REQ-1046,Cliente 46,M,24,SP,Smartwatch,3602.41,5,"Excelente produto, superou todas as minhas expectativas!",Não Necessário
+REQ-1047,Cliente 47,Outro,40,BA,Fone Bluetooth,468.22,4,Muito robusto e de ótima qualidade. Vale cada centavo.,Não Necessário
+REQ-1048,Cliente 48,M,39,RJ,Tablet,185.73,4,Chegou super rápido e funciona perfeitamente.,Não Necessário
+REQ-1049,Cliente 49,M,50,PE,Teclado Mecânico,1258.37,1,"Não gostei da qualidade do material, parece muito frágil.",Em Aberto
+REQ-1050,Cliente 50,F,64,MG,Mouse Sem Fio,665.67,4,Design bonito e entrega antes do prazo.,Não Necessário
+REQ-1051,Cliente 51,F,47,MG,Smartphone,1824.75,1,Entrega atrasou muito e a embalagem veio totalmente amassada.,Resolvido
+REQ-1052,Cliente 52,M,43,PR,Mouse Sem Fio,1956.0,5,"Melhor compra que fiz este ano, recomendo muito.",Não Necessário
+REQ-1053,Cliente 53,F,18,BA,Fone Bluetooth,1117.05,5,"Excelente produto, superou todas as minhas expectativas!",Não Necessário
+REQ-1054,Cliente 54,M,18,PE,Mouse Sem Fio,2974.15,1,O produto parou de funcionar na primeira semana. Péssimo.,Resolvido
+REQ-1055,Cliente 55,F,33,MG,Teclado Mecânico,584.73,5,Chegou super rápido e funciona perfeitamente.,Não Necessário
+REQ-1056,Cliente 56,M,64,SP,Smartwatch,830.22,3,"O produto é mediano, atende o básico.",Resolvido
+REQ-1057,Cliente 57,Outro,53,SP,Teclado Mecânico,1823.35,5,Design bonito e entrega antes do prazo.,Não Necessário
+REQ-1058,Cliente 58,F,48,RJ,Tablet,4203.79,4,Design bonito e entrega antes do prazo.,Não Necessário
+REQ-1059,Cliente 59,M,21,PE,Cadeira Ergonômica,4250.32,4,Design bonito e entrega antes do prazo.,Não Necessário
+REQ-1060,Cliente 60,Outro,37,PE,Fone Bluetooth,2601.48,5,Muito robusto e de ótima qualidade. Vale cada centavo.,Não Necessário
+REQ-1061,Cliente 61,Outro,60,PR,Notebook,3700.9,1,Veio faltando peças na caixa. Estou muito insatisfeito.,Pendente
+REQ-1062,Cliente 62,M,29,BA,Fone Bluetooth,223.39,2,Veio faltando peças na caixa. Estou muito insatisfeito.,Pendente
+REQ-1063,Cliente 63,F,25,PR,Tablet,3083.18,3,"O produto é mediano, atende o básico.",Resolvido
+REQ-1064,Cliente 64,Outro,21,RJ,Teclado Mecânico,1600.1,3,"O produto é mediano, atende o básico.",Em Aberto
+REQ-1065,Cliente 65,M,53,RJ,Teclado Mecânico,3390.24,1,O produto parou de funcionar na primeira semana. Péssimo.,Em Aberto
+REQ-1066,Cliente 66,F,56,PE,Cadeira Ergonômica,3908.67,5,Muito robusto e de ótima qualidade. Vale cada centavo.,Não Necessário
+REQ-1067,Cliente 67,M,30,BA,Caixa de Som,1110.15,4,Muito robusto e de ótima qualidade. Vale cada centavo.,Não Necessário
+REQ-1068,Cliente 68,M,37,PE,Caixa de Som,1474.22,3,"O produto é mediano, atende o básico.",Em Aberto
+REQ-1069,Cliente 69,M,58,MG,Caixa de Som,1470.95,3,"O produto é mediano, atende o básico.",Em Aberto
+REQ-1070,Cliente 70,F,64,PE,Teclado Mecânico,458.08,5,Chegou super rápido e funciona perfeitamente.,Não Necessário
+REQ-1071,Cliente 71,Outro,38,SC,Teclado Mecânico,3572.53,4,Muito robusto e de ótima qualidade. Vale cada centavo.,Não Necessário
+REQ-1072,Cliente 72,M,59,RJ,Mouse Sem Fio,4481.89,5,Design bonito e entrega antes do prazo.,Não Necessário
+REQ-1073,Cliente 73,Outro,46,MG,Fone Bluetooth,4360.5,1,"Não gostei da qualidade do material, parece muito frágil.",Pendente
+REQ-1074,Cliente 74,M,55,BA,Cadeira Ergonômica,373.8,5,"Excelente produto, superou todas as minhas expectativas!",Não Necessário
+REQ-1075,Cliente 75,F,22,PR,Teclado Mecânico,1087.86,5,"Melhor compra que fiz este ano, recomendo muito.",Não Necessário
+REQ-1076,Cliente 76,M,39,SC,Smartphone,4265.26,4,Design bonito e entrega antes do prazo.,Não Necessário
+REQ-1077,Cliente 77,F,48,MG,Monitor Gamer,3187.63,5,Muito robusto e de ótima qualidade. Vale cada centavo.,Não Necessário
+REQ-1078,Cliente 78,Outro,20,PR,Fone Bluetooth,2135.54,2,"Não gostei da qualidade do material, parece muito frágil.",Resolvido
+REQ-1079,Cliente 79,Outro,58,BA,Smartphone,3080.63,1,Veio faltando peças na caixa. Estou muito insatisfeito.,Resolvido
+REQ-1080,Cliente 80,M,42,PE,Smartphone,1045.0,4,Muito robusto e de ótima qualidade. Vale cada centavo.,Não Necessário
+REQ-1081,Cliente 81,M,49,PR,Teclado Mecânico,243.13,5,Muito robusto e de ótima qualidade. Vale cada centavo.,Não Necessário
+REQ-1082,Cliente 82,M,53,MG,Notebook,4363.4,5,Muito robusto e de ótima qualidade. Vale cada centavo.,Não Necessário
+REQ-1083,Cliente 83,M,31,BA,Smartphone,2842.63,4,"Excelente produto, superou todas as minhas expectativas!",Não Necessário
+REQ-1084,Cliente 84,Outro,29,RJ,Cadeira Ergonômica,1805.62,4,"Excelente produto, superou todas as minhas expectativas!",Não Necessário
+REQ-1085,Cliente 85,F,45,SC,Tablet,1777.79,1,Veio faltando peças na caixa. Estou muito insatisfeito.,Resolvido
+REQ-1086,Cliente 86,M,58,SC,Monitor Gamer,193.81,3,"O produto é mediano, atende o básico.",Resolvido
+REQ-1087,Cliente 87,M,30,RS,Notebook,3710.29,4,Design bonito e entrega antes do prazo.,Não Necessário
+REQ-1088,Cliente 88,Outro,42,RJ,Tablet,4200.64,5,Design bonito e entrega antes do prazo.,Não Necessário
+REQ-1089,Cliente 89,M,50,RS,Smartphone,2187.65,5,Design bonito e entrega antes do prazo.,Não Necessário
+REQ-1090,Cliente 90,M,43,BA,Caixa de Som,4366.12,5,Chegou super rápido e funciona perfeitamente.,Não Necessário
+REQ-1091,Cliente 91,M,51,SP,Notebook,645.64,5,Design bonito e entrega antes do prazo.,Não Necessário
+REQ-1092,Cliente 92,M,22,BA,Teclado Mecânico,4485.03,1,Trava o tempo todo e o suporte da empresa não me respondeu.,Resolvido
+REQ-1093,Cliente 93,F,27,MG,Smartphone,1122.83,5,Design bonito e entrega antes do prazo.,Não Necessário
+REQ-1094,Cliente 94,Outro,62,PR,Smartwatch,1067.46,2,O produto parou de funcionar na primeira semana. Péssimo.,Pendente
+REQ-1095,Cliente 95,Outro,25,BA,Tablet,2266.84,4,Muito robusto e de ótima qualidade. Vale cada centavo.,Não Necessário
+REQ-1096,Cliente 96,Outro,29,SP,Monitor Gamer,4357.48,4,Chegou super rápido e funciona perfeitamente.,Não Necessário
+REQ-1097,Cliente 97,M,34,PE,Mouse Sem Fio,3410.36,1,"Não gostei da qualidade do material, parece muito frágil.",Pendente
+REQ-1098,Cliente 98,Outro,55,PE,Fone Bluetooth,1610.11,5,Chegou super rápido e funciona perfeitamente.,Não Necessário
+REQ-1099,Cliente 99,Outro,51,SC,Caixa de Som,2337.25,4,Chegou super rápido e funciona perfeitamente.,Não Necessário
+REQ-1100,Cliente 100,F,59,MG,Smartphone,4275.37,5,Muito robusto e de ótima qualidade. Vale cada centavo.,Não Necessário
