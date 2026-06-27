@@ -55,3 +55,8 @@ Para alimentar um futuro modelo de Machine Learning, precisamos normalizar os te
    ```python
    import pandas as pd
    df = pd.read_csv('avaliacoes_premium.csv')
+
+
+
+2. Crie uma branch para voce realizar sua resolução
+    
